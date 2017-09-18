@@ -1,0 +1,105 @@
+html {
+    font-size: 16px;
+    line-height: 1.2;
+    padding:4px;
+    background-color: #A84F4F;
+    font-family: Comic Sans MS;
+}
+
+body {
+    font-size: 1.5rem;
+}
+article { 
+    display: block;
+}
+
+main {
+    position:relative;
+    width:85%;
+    margin-left:auto;
+    margin-right:auto;
+    background-color:#7B7E66;
+    border:2px dashed #020700;
+    border-radius:15px;
+    color:#212121;
+    padding:20px;
+}
+
+header {
+    padding: 0.2rem;
+    text-align:center;
+}
+
+h1, h2, {
+    margin-top: 1rem;
+    margin-bottom: 1rem;
+}
+
+h1 {
+    font-size: 3rem;
+    text-align: left;
+}
+
+h2 {
+    font-size: 2rem;
+}
+p {
+    color: #031F03;
+    margin-top: 1rem;
+    margin-bottom: 1rem;
+}
+
+a {
+    color: #1D0A74;
+}
+
+small {
+    font-size: .9rem;
+}
+.sectionholder {
+    font-size:1.2rem;
+}
+.image2 {
+    width: 400px;
+    height: 250px;
+    float: left;
+    margin-right: 1rem;
+    
+}
+.image1 {
+    width: 400px;
+    height: 250px;
+    float: right;
+    margin-right: 1rem;
+    
+}
+.text--lead-in {
+    font-size: 1.3rem;
+    color: #1E0350;
+}
+.recipe-link {
+    text-decoration: none;
+    font-weight: bold;
+}
+.contact-link {
+    border-radius: 5px;
+    border: 2px solid #030303;
+    background-color: #EBE3E3;
+    width: 200px;
+    margin: 0 auto;
+    text-align: center;
+    display: block;
+    color: #2B0DD4;
+    text-decoration: none;
+}
+.contact-link:hover {
+    border-style: dashed;
+    color: #170870;
+    background-color: #efefef;
+}
+
+footer {
+    text-align:right;
+    font-size:1rem;
+    padding:1rem;
+}
